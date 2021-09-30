@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "google-images": "^2.1.0"
+    "images-scraper": "^6.4.0"
   }
 }
